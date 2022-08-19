@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.6.1
+pydantic[dotenv]==1.9.1
